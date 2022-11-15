@@ -1,0 +1,12 @@
+body{
+background-color: aqua;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+width: 400;
+height: 280;
+}
+label{
+font-size: 17;
+}
